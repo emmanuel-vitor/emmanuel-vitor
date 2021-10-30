@@ -1,16 +1,13 @@
 ### Opa, seja Bem-Vindo(a), eu sou o Emmanuel Vitor👋
 
-
 - 🧑🏾‍🎓| Graduando em ADS e Técnico em Informática <br>
 - 👨🏿‍💻 Dev. Frontend caminhando para o mobile <br>
 - 🌱 Estudando Dart e Flutter  ... <br>
 
-
-
 <div align="center">
   <br>
   <a href="https://github.com/emmanuel-vitor/emmanuel-vitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuel-vitor&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emmanuel-vitor&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-vitor&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
