@@ -2,5 +2,5 @@
 
 - 🧑🏾‍🎓| Graduando em ADS e Técnico em Informática <br>
 - 👨🏿‍💻 Dev. Frontend <br>
-- 🌱 Estudando Dart e Flutter  ... <br>
+
 
