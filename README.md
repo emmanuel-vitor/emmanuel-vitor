@@ -1,6 +1,6 @@
 <h1 align="center" >🌟 Bem Vindo(a) ao meu repositorio 🌟</h1>
 
-## Eu sou o Emmanuel Vitor . . .<br>
+## Opa, eu sou o Emmanuel Vitor . . .<br>
 
 Sou uma apaixonado por tecnologia, gastronomia e esportes;
 
